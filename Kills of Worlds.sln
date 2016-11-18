@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F28B2C65-1F8C-3163-52BF-493D78EC8490}") = "Kills of Worlds", "Assembly-CSharp-firstpass.csproj", "{DFEFAD32-7C2B-D725-DC1C-6942D0B409DC}"
+EndProject
+Project("{F28B2C65-1F8C-3163-52BF-493D78EC8490}") = "Kills of Worlds", "Assembly-CSharp-Editor.csproj", "{3DE65CD4-0B7F-814E-22B8-B00684A08CDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFEFAD32-7C2B-D725-DC1C-6942D0B409DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFEFAD32-7C2B-D725-DC1C-6942D0B409DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFEFAD32-7C2B-D725-DC1C-6942D0B409DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFEFAD32-7C2B-D725-DC1C-6942D0B409DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DE65CD4-0B7F-814E-22B8-B00684A08CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DE65CD4-0B7F-814E-22B8-B00684A08CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DE65CD4-0B7F-814E-22B8-B00684A08CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DE65CD4-0B7F-814E-22B8-B00684A08CDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
